@@ -1,0 +1,43 @@
+List of Assests for demo
+————————
+Art:
+Rigged a4 puppy
+Rigged Chester
+and i guess a house 
+
+
+scripting: 
+
+fire_object: 
+- fire starts with HP number
+- HP automatically increases if fire left alone 
+-once hp reaches certain number, it resets to original # but a new fire object is then created
+-HP decreases when a4 puppy licks
+-if HP reaches 0, fire disappears
+
+A4puppy object:
+-has own HP, maybe more than fire?? idk
+-HP decreases when interacting with fire
+-when HP reaches 0, puppy poofs away but not before giving a terrifying yelp.(we should disabled by default for demo)
+— AI: puppy - finite amount
+	Locates nearest fire within a radius, returns otherwise
+	Rally forces
+after school shooter arc:
+	Different modes/mentalities? 
+		-wander 
+		-offensive 
+		-pack 
+		-lone wolf
+Blamable objects:
+-Can catch on fire
+and fire can spread
+- we’ll figure out the rest later
+
+civilian objects:
+-same properties as an object
+-Has certain number of HP
+-HP decreases over time
+-when surrounded by fire, the HP decreases even more per fire.
+-After the HP decreases a certain number, they are also caught on fire
+-
+	
