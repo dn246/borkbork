@@ -20,8 +20,9 @@ A4puppy object:
 -HP decreases when interacting with fire
 -when HP reaches 0, puppy poofs away but not before giving a terrifying yelp.(we should disabled by default for demo)
 — AI: puppy - finite amount
-	Locates nearest fire within a radius, returns otherwise
-	Rally forces
+	-Locates nearest fire within a radius. Licks until fire gone or it dies,
+        then continues to search for fire in radius. returns otherwise
+	-Rally forces
 after school shooter arc:
 	Different modes/mentalities? 
 		-wander 
@@ -40,4 +41,10 @@ civilian objects:
 -when surrounded by fire, the HP decreases even more per fire.
 -After the HP decreases a certain number, they are also caught on fire
 -
-	
+
+main puppy object:
+-no hp
+-moves around key controls
+- something to aim where puppies get fired
+- mouse button launches puppies out
+- can call puppies back if puppies are in radius
