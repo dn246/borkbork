@@ -8,12 +8,21 @@ and i guess a house
 
 scripting: 
 
-fire_object: 
+fire_object: **it would be cool if the fire could change size depending on HP
 - fire starts with HP number
 - HP automatically increases if fire left alone 
--once hp reaches certain number, it resets to original # but a new fire object is then created
+-once hp reaches certain number, it resets to original # but a new fire object is then created   ///THIS SHIT IS TOO QUICK
 -HP decreases when a4 puppy licks
 -if HP reaches 0, fire disappears
+
+*******new fire script********
+-public int fire starts with HP number
+-public int fire spawn speed number
+update
+-add HP if HP is not full
+-for every (fire spawn speed)seconds, check if HP is full, if full:spawn new fire
+-if HP reaches 0, destroy
+******************************
 
 A4puppy object:
 -has own HP, maybe more than fire?? idk
