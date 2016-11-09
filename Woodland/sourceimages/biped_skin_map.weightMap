@@ -1,0 +1,22 @@
+// Exported skin weight map file
+// 
+pCube8	root	pCube8_root.iff
+pCube8	upperhalp	pCube8_upperhalp.iff
+pCube8	joint3	pCube8_joint3.iff
+pCube8	joint4	pCube8_joint4.iff
+pCube8	joint5	pCube8_joint5.iff
+pCube8	right_arm	pCube8_right_arm.iff
+pCube8	joint25	pCube8_joint25.iff
+pCube8	joint27	pCube8_joint27.iff
+pCube8	left_arm	pCube8_left_arm.iff
+pCube8	joint28	pCube8_joint28.iff
+pCube8	lowerhalf	pCube8_lowerhalf.iff
+pCube8	joint8	pCube8_joint8.iff
+pCube8	joint9	pCube8_joint9.iff
+pCube8	joint10	pCube8_joint10.iff
+pCube8	lowerhalf|right_leg	pCube8_right_leg.iff
+pCube8	joint19	pCube8_joint19.iff
+pCube8	joint21	pCube8_joint21.iff
+pCube8	lowerhalf|left_leg	pCube8_left_leg.iff
+pCube8	joint20	pCube8_joint20.iff
+pCube8	joint22	pCube8_joint22.iff
